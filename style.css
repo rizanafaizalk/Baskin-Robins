@@ -1,0 +1,118 @@
+#button{
+    background-color: #f20c90;
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+.logo{
+    width: 100px !important;
+}
+.bloody-image{
+
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://cdn.shopify.com/s/files/1/0624/7065/2146/files/Fun_times_with_the_family-01_1024x.jpg?v=1676652223');
+}
+@media (max-width:700px) {
+    .bloody-image{
+    width: 214px;
+    height: 342px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://cdn.shopify.com/s/files/1/0624/7065/2146/files/Fun_times_with_the_family-02_414x@2x.jpg?v=1676652235');
+    }
+    .navbar{
+        width: 100% !important;
+    }
+}
+#image2{
+    width: 50px;
+    height: 55px;
+}
+#new{
+    color: blue;
+}
+#colour{
+    color: blue;
+
+}
+#colour2{
+    color: blue;
+
+}
+.pink{
+    color: #f20c90;
+}
+#image3{
+    cursor: pointer;
+    border: none;
+}
+#image3:hover{
+    background-color: rgb(233, 115, 115) ;
+}
+#image4{
+    cursor: pointer;
+    border: none;
+}
+#image4:hover{
+    background-color: rgb(233, 115, 115)n ;
+}
+#image5{
+    cursor: pointer;
+    border: none;
+}
+#image5:hover{
+    background-color: rgb(233, 115, 115) ;
+}
+.button{
+    color: red;
+    
+    background-color: white;
+    border: 1px solid #f20c90;
+}
+.button:hover{
+    background-color: #f20c90;
+    color: white;
+
+}
+#image6{
+    background-color: rgb(253, 184, 75);
+}
+#button1{
+    background-color: #f20c90;
+
+}
+#image7{
+    background-color: rgb(57, 17, 18);
+}
+#image8{
+    background-color:rgb(250, 206, 136);
+}
+#image9{
+    background-color: rgb(233, 115, 115);
+}
+/* .footer-image{
+    width: 100% !important;
+    background-image: url('https://cdn.shopify.com/s/files/1/0624/7065/2146/t/20/assets/footer-bg.static.png?v=126365263848457154271666250809');
+  height: 250px;
+
+}  */
+#input{
+    color: black;
+}
+#email{
+    width: 200px;
+    height: 40px;
+}
+#contact{
+    color: black;
+}

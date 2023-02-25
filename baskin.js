@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $("#signup-form").validate({
+        rules:{
+            emailAddress:{
+                required:true,
+                email:true,
+            }
+        }
+    })
+})
